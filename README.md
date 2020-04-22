@@ -21,3 +21,8 @@ Segmentation is one of the most important processes for the automatic identifica
 Step3 : Licence plate recognition
 
 In order to make the most of the data available for learning, we cut each character indivudually by resizing it in a square after applying the same image processing steps used before segmentation of the license plate. As a result, we obtained a set of of data composed of 11 classes and for each class we have 30–40 images of 28X28 pixel dimesion PNG formats; numbers from 0 to 9.
+
+
+![GitHub Logo](/OpenCV_3_License_Plate_Recognition_Python-master/imgOriginalScene.png)
+Format: ![Alt Text](url)
+
